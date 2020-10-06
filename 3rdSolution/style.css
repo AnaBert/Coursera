@@ -1,0 +1,65 @@
+body{
+    font-size: 15px;
+    color: rgb(29, 48, 44);
+    background-color: rgba(123, 255, 237, 0.685);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#header-nav{
+    background-color: cadetblue;
+    border-radius: 0;
+    border: 0;;
+}
+h1{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 2.5em;
+}
+.navbar-header h1{
+    font-size: 2em;
+    color: white;
+    font-weight: bolder;
+    text-shadow: 2px 2px 2px #222;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.card {
+    background-color: rgb(240, 180, 169);
+}
+
+h2{
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    padding-top: 15px;
+}
+ 
+p{
+    padding: 10px;
+}
+
+#backtotop {
+    padding: 5px ;
+    color: rgb(29, 48, 44) ;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 1.2em;
+}
+
+#nav-list {
+    margin-top: 10px;
+
+  }
+#nav-list a {
+    color: white;
+    text-align: center;
+}
+#nav-list a:hover {
+    background: rgba(154, 241, 230, 0.781);
+    
+}
+  
+#nav-list a span {
+    font-size: 1.8em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid rgba(123, 255, 237, 0.685);
+  }
+}
